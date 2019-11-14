@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  font-family: Homemade Apple, Dosis;
+  color: rgb(3, 169, 244);
+  font-size: 50px;
+}
+
+.newT {
+  width: 70%;
+  background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 40px;
+  padding-left: 40px;
+  border-radius: 5px;
+  border-color: black;
+  font-size: 20px;
+  font-family: dosis;
+}
+
+.postL {
+  width: 70%;
+  height: auto;
+  background-color: white;
+  display: block;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 5px;
+  border: 1px solid black;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.post-item {
+  border-bottom: 2px solid #f3f1f7;
+  font-family: dosis;
+  font-size: 20px;
+}
+
+i {
+}
